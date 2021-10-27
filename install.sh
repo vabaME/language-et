@@ -10,5 +10,5 @@ sudo install -Dm644  synaptic.mo /usr/share/locale/et/LC_MESSAGES/
 sudo install -Dm644  synaptic.mo /usr/share/locale-langpack/et/LC_MESSAGES/
 sudo install -Dm644  libelf.mo /usr/share/locale-langpack/et/LC_MESSAGES/  
 sudo install -Dm644  bleachbit.mo /usr/share/locale/et/LC_MESSAGES/
-
+sudo install -Dm644  file-roller.mo /usr/share/locale/et/LC_MESSAGES/
 exit 1
