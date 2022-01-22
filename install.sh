@@ -13,4 +13,5 @@ sudo install -Dm644  kazam.mo /usr/share/locale/et/LC_MESSAGES/
 sudo install -Dm644  cinnamon.mo /usr/share/locale/et/LC_MESSAGES/
 sudo install -Dm644  nm-applet.mo /usr/share/locale/et/LC_MESSAGES/
 sudo install -Dm644  gnome-terminal.mo /usr/share/locale/et/LC_MESSAGES/
+sudo install -Dm644  nm-connection-editor.desktop /usr/share/applications/
 exit 1
