@@ -16,4 +16,5 @@ sudo install -Dm644  nm-connection-editor.desktop /usr/share/applications/
 sudo install -Dm644  gnome-calculator.mo /usr/share/locale/et/LC_MESSAGES/
 sudo install -Dm644  udisks2.mo /usr/share/locale-langpack/et/LC_MESSAGES/
 sudo install -Dm644  gnome-disk-utility.mo /usr/share/locale-langpack/et/LC_MESSAGES/
+sudo install -Dm644  gnome-disk-utility.mo /usr/share/locale/et/LC_MESSAGES/
 exit 1
