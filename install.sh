@@ -17,4 +17,6 @@ sudo install -Dm644  gnome-calculator.mo /usr/share/locale/et/LC_MESSAGES/
 sudo install -Dm644  udisks2.mo /usr/share/locale-langpack/et/LC_MESSAGES/
 sudo install -Dm644  gnome-disk-utility.mo /usr/share/locale-langpack/et/LC_MESSAGES/
 sudo install -Dm644  gnome-disk-utility.mo /usr/share/locale/et/LC_MESSAGES/
+sudo install -Dm644  gpaint-2.mo /usr/share/locale/et/LC_MESSAGES/
+sudo install -Dm644  gpaint.desktop /usr/share/applications/
 exit 1
