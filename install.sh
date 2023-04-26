@@ -28,4 +28,5 @@ sudo install -Dm644  warpinator.mo /usr/share/locale/et/LC_MESSAGES/
 sudo install -Dm644  celluloid.mo /usr/share/locale/et/LC_MESSAGES/
 sudo install -Dm644  gtkhash.mo /usr/share/locale/et/LC_MESSAGES/
 sudo install -Dm644  gtkhash.desktop /usr/share/applications/
+sudo install -Dm644  rhythmbox.mo /usr/share/locale-langpack/et/LC_MESSAGES/
 exit 1
