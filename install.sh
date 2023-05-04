@@ -32,4 +32,6 @@ sudo install -Dm644  rhythmbox.mo /usr/share/locale-langpack/et/LC_MESSAGES/
 sudo install -Dm644  shadow.mo /usr/share/locale-langpack/et/LC_MESSAGES/
 sudo install -Dm644  sudo.mo /usr/share/locale-langpack/et/LC_MESSAGES/
 sudo install -Dm644  sudoers.mo /usr/share/locale-langpack/et/LC_MESSAGES/
+sudo install -Dm644  transmission-gtk.mo /usr/share/locale/et/LC_MESSAGES/
+sudo install -Dm644  transmission-gtk.mo /usr/share/locale-langpack/et/LC_MESSAGES/
 exit 1
